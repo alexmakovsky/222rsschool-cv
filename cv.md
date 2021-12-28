@@ -6,3 +6,6 @@
 * Email: makovsky9@gmail.com
 * GitHub: [alexmakovsky](https://github.com/alexmakovsky)
 
+## About me
+I have been working in casinos for 6 years. During this time, I have achieved a lot, and I do not want to stop developing. I work great in a team and really want to learn and develop new skills.
+
