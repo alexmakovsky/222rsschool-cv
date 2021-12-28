@@ -1,5 +1,6 @@
 # Alexey Makovsky
 ## Contacts
+***
 
 * Location: Brest, Belarus
 * Phone: +375 33 620 02 56
@@ -7,9 +8,11 @@
 * GitHub: [alexmakovsky](https://github.com/alexmakovsky)
 
 ## About me
-I have been working in casinos for 6 years. During this time, I have achieved a lot, and I do not want to stop developing. I work great in a team and really want to learn and develop new skills.
+***
+I have been working in casino for 6 years. During this time, I have achieved a lot, and I do not want to stop developing. I work great in a team and really want to learn and develop new skills.
 
 ## Skills
+***
 
 * HTML
 * CSS
@@ -17,12 +20,21 @@ I have been working in casinos for 6 years. During this time, I have achieved a 
 * Git
 
 ## Code example
+***
 
 ```
 const list  = ['apple', 'lemon', 'cherry']
 list.forEach(i => console.log(i))
 ```
 
+## Experience
+***
+
 ## Education
- * University: BREST STATE TECHNICAL UNIVERSITY, Faculty of Mechanical Engineering, engineer.
- * Courses: IT-Academy, Web application development using JS.
+***
+ * **University**: BREST STATE TECHNICAL UNIVERSITY, Faculty of Mechanical Engineering, engineer.
+ * **Courses**: IT-Academy, Web application development using JS.
+
+ ## English
+ ***
+**A2** Elementary
