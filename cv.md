@@ -23,3 +23,6 @@ const list  = ['apple', 'lemon', 'cherry']
 list.forEach(i => console.log(i))
 ```
 
+## Education
+ * University: BREST STATE TECHNICAL UNIVERSITY, Faculty of Mechanical Engineering, engineer.
+ * Courses: IT-Academy, Web application development using JS.
