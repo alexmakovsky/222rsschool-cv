@@ -16,3 +16,10 @@ I have been working in casinos for 6 years. During this time, I have achieved a 
 * JS (basic)
 * Git
 
+## Code example
+
+```
+const list  = ['apple', 'lemon', 'cherry']
+list.forEach(i => console.log(i))
+```
+
