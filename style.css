@@ -2,9 +2,10 @@ body{
    max-width: 1280px;
    margin: 0 auto;
 }
-main{
+main,footer{
    display: flex;
    flex-flow: row nowrap;
+   justify-content: space-between;
 }
 main > *{
    display: flex;
